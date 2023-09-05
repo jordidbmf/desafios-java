@@ -16,6 +16,8 @@ public class OrganizandoSeusAtivos {
         ativos.add(codigoAtivo);
         }
 
+        scanner.close();
+
         //TODO: Ordenar os ativos em ordem alfabética.
         Collections.sort(ativos);
 
