@@ -1,3 +1,5 @@
+package primeiros;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;

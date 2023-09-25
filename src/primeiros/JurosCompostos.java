@@ -1,3 +1,5 @@
+package primeiros;
+
 import java.text.DecimalFormat;
 import java.util.Locale;
 import java.util.Scanner;

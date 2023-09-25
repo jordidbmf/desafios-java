@@ -1,3 +1,5 @@
+package primeiros;
+
 import java.util.Scanner;
 
 public class GrandeDeposito {
@@ -5,6 +7,8 @@ public class GrandeDeposito {
         Scanner scanner = new Scanner(System.in);
 
         double valor = scanner.nextDouble();
+
+        scanner.close();
 
         if (valor > 0){
             System.out.println("Deposito realizado com sucesso!");
